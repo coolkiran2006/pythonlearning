@@ -1,0 +1,8 @@
+num=int(input("Enter a Number:"))
+string=str(input("Enter a Name:"))
+floa=float(input("Enter a Float a Value:"))
+data=input("Enter the Data:")
+print ("nums is:",num)
+print ("string is:",string)
+print ("float is:",floa)
+print ("data is :",data)
