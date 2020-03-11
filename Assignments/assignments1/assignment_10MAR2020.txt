@@ -1,0 +1,54 @@
+Control Statements:
+1. Write a Program to find a given number is even or odd ?
+2. Write a Program to find a given number is prime or not ?
+3. Write a Program to find a big number among two numbers ?
+4. Write a Program to find a small number among two numbers ?
+5. Write a Program to find a big number among three numbers ?
+6. Write a Program to find a small number amont three numbers ?
+7. Write a program to find the sum of digits of given number ?
+8. Write a Program to find the Product of digits of given number ?
+9. Write a Program to Reverse given number ?
+10. Write a Program to find the givene number is palindrome or not ?
+11. Write a Program to find the given number is arm strong number or not ?
+12. Write a Program to find the given year is leap or not ?
+13. Write a Program to print the below pattern ?
+*
+**
+***
+****
+*****
+14. Write a Program to print the below pattern ?
+*****
+****
+***
+**
+*
+
+15. Write a Program to print the below pattern ?
+1
+22
+333
+4444
+55555
+
+16. Write a Program to print the below pattern ?
+1
+12
+123
+1234
+12345
+
+17. Write a Program to print the below pattern ?
+
+i.
+55555
+4444
+333
+22
+1
+ii.
+12345
+1234
+123
+12
+1
